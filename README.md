@@ -3,7 +3,7 @@
 
 
 - 🔭 Em busca de um estágio como front-end
-- 🌱 Estudando JavaScript, HTML5 e CSS3 
+- 🌱 Estudando JavaScript, HTML5, CSS3 e React
 
 <div align="center">
   <a href="https://github.com/CanezinBeto">
@@ -17,6 +17,7 @@
   <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
