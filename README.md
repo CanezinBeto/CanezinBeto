@@ -1,10 +1,9 @@
-## Olá! Eu sou CanezinBeto.
+## Olá! Eu sou Alberto Canezin.
 
 
 
-- 🔭 Trabalho com front-end
+- 🔭 Em busca de um estágio como front-end
 - 🌱 Estudando JavaScript, HTML5 e CSS3 
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/CanezinBeto">
@@ -23,6 +22,5 @@
   ##
   
 <div> 
-  <a href="https://instagram.com/betocanezin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
   <a href = "mailto:contato@albertocanezin.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
